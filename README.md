@@ -58,9 +58,6 @@ LUFFY/
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
 - [ ] **luffy/deepscaler/utils.py:47** - Add timeout configuration for API calls
-- [ ] **luffy/deepscaler/utils.py:50** - Add logging for API calls and errors
-- [ ] **luffy/deepscaler/utils.py:51** - Support batch processing for multiple prompts
-- [ ] **luffy/deepscaler/utils.py:52** - Add timeout configuration for API calls
 - [ ] **luffy/deepscaler/utils.py:107** - Implement Vertex AI initialization and authentication
 - [ ] **luffy/deepscaler/utils.py:108** - Configure safety settings for content generation
 - [ ] **luffy/deepscaler/utils.py:109** - Set up GenerativeModel with proper system instructions
