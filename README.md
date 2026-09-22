@@ -111,6 +111,7 @@ LUFFY/
 - [ ] **luffy/verl/verl/protocol.py:115** - Add support for different tensor types and shapes
 - [ ] **luffy/verl/verl/protocol.py:136** - Optimize tensor view operations for performance
 - [ ] **luffy/verl/verl/protocol.py:137** - Add error handling for invalid batch dimensions
+- [ ] **luffy/verl/verl/protocol.py:137** - Add error handling for invalid batch dimensions
 - [ ] **luffy/verl/verl/protocol.py:169** - (zhangchi.usc1992) add consistency check
 - [ ] **luffy/verl/verl/protocol.py:265** - we can actually lift this restriction if needed
 - [ ] **luffy/verl/verl/protocol.py:351** - (zhangchi.usc1992) whether to copy
